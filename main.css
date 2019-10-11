@@ -1,20 +1,32 @@
 .jumbotron{
     padding:150px;
-   background-image: url(./images/miami.jpg);
+   background-image: url(./images/wallpaper6.jpg);
    position: relative;
    background-repeat: no-repeat;
-   background-size: cover;
+   background-size: cover ;
    background-position:center;
    height:20%;
-   /* width: 1066px; */
+   width: 100%x;
   }
   .container-fluid{
     font-family: 'Berkshire Swash', cursive;
-    color: rgba(255, 0, 0, 0.986);
+    ;
     font-size: 25px;
     left: 0%;
   }
 .navbar-header{
     font-family: 'Shojumaru', cursive;
-    font-size: 150px;
+    color: rgba(255, 0, 0, 0.986)
+}
+.dex{
+  position: relative;
+}
+.logopic{
+  position:absolute;
+  bottom:6%;
+  left:47%;
+  justify-content: center;
+}
+.carousel-inner img {
+  padding: fill  
 }

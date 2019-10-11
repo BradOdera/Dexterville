@@ -1,0 +1,52 @@
+ body{
+     background-image: url("https://images.squarespace-cdn.com/content/v1/55c42a68e4b0c208e42bdc9e/1516731636732-R614PBMYK80FX0K5X48X/ke17ZwdGBToddI8pDm48kCXAmbIgMI78o84NhT6RhWwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dkqliSzw9PV_eXsXtMHfJ-3wGQ0-Rk33P7-x3gh5BgRvZtJ3qR9G2BYeA0wOAaeYNg/StudioA+3+%28opacity%29.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ .jumbotron{
+    background-color: lightslategray;
+}
+.card{
+    background-color: lightsteelblue;
+}
+
+.icons{
+    text-align: center
+    
+}
+.fa {
+    margin-top: 15px;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    box-sizing: content-box;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
